@@ -1,0 +1,9 @@
+C:\curso\curso\curso.domain\bin\Debug\netstandard2.0\curso.domain.deps.json
+C:\curso\curso\curso.domain\bin\Debug\netstandard2.0\curso.domain.dll
+C:\curso\curso\curso.domain\obj\Debug\netstandard2.0\curso.domain.csprojAssemblyReference.cache
+C:\curso\curso\curso.domain\obj\Debug\netstandard2.0\curso.domain.AssemblyInfoInputs.cache
+C:\curso\curso\curso.domain\obj\Debug\netstandard2.0\curso.domain.AssemblyInfo.cs
+C:\curso\curso\curso.domain\bin\Debug\netstandard2.0\curso.domain.pdb
+C:\curso\curso\curso.domain\obj\Debug\netstandard2.0\curso.domain.dll
+C:\curso\curso\curso.domain\obj\Debug\netstandard2.0\curso.domain.pdb
+C:\curso\curso\curso.domain\obj\Debug\netstandard2.0\curso.domain.csproj.CoreCompileInputs.cache

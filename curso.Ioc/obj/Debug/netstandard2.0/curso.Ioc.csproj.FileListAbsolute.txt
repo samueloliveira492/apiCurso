@@ -1,0 +1,9 @@
+C:\curso\curso\curso.Ioc\bin\Debug\netstandard2.0\curso.Ioc.deps.json
+C:\curso\curso\curso.Ioc\bin\Debug\netstandard2.0\curso.Ioc.dll
+C:\curso\curso\curso.Ioc\obj\Debug\netstandard2.0\curso.Ioc.AssemblyInfoInputs.cache
+C:\curso\curso\curso.Ioc\obj\Debug\netstandard2.0\curso.Ioc.AssemblyInfo.cs
+C:\curso\curso\curso.Ioc\bin\Debug\netstandard2.0\curso.Ioc.pdb
+C:\curso\curso\curso.Ioc\obj\Debug\netstandard2.0\curso.Ioc.dll
+C:\curso\curso\curso.Ioc\obj\Debug\netstandard2.0\curso.Ioc.pdb
+C:\curso\curso\curso.Ioc\obj\Debug\netstandard2.0\curso.Ioc.csproj.CoreCompileInputs.cache
+C:\curso\curso\curso.Ioc\obj\Debug\netstandard2.0\curso.Ioc.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\curso\curso\curso.util\bin\Debug\netstandard2.0\curso.util.deps.json
+C:\curso\curso\curso.util\bin\Debug\netstandard2.0\curso.util.dll
+C:\curso\curso\curso.util\bin\Debug\netstandard2.0\curso.util.pdb
+C:\curso\curso\curso.util\obj\Debug\netstandard2.0\curso.util.csprojAssemblyReference.cache
+C:\curso\curso\curso.util\obj\Debug\netstandard2.0\curso.util.csproj.CoreCompileInputs.cache
+C:\curso\curso\curso.util\obj\Debug\netstandard2.0\curso.util.AssemblyInfoInputs.cache
+C:\curso\curso\curso.util\obj\Debug\netstandard2.0\curso.util.AssemblyInfo.cs
+C:\curso\curso\curso.util\obj\Debug\netstandard2.0\curso.util.dll
+C:\curso\curso\curso.util\obj\Debug\netstandard2.0\curso.util.pdb

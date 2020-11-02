@@ -1,0 +1,9 @@
+C:\curso\curso\curso.infra.crosscutting\bin\Debug\netstandard2.0\curso.infra.crosscutting.deps.json
+C:\curso\curso\curso.infra.crosscutting\bin\Debug\netstandard2.0\curso.infra.crosscutting.dll
+C:\curso\curso\curso.infra.crosscutting\bin\Debug\netstandard2.0\curso.infra.crosscutting.pdb
+C:\curso\curso\curso.infra.crosscutting\obj\Debug\netstandard2.0\curso.infra.crosscutting.csprojAssemblyReference.cache
+C:\curso\curso\curso.infra.crosscutting\obj\Debug\netstandard2.0\curso.infra.crosscutting.csproj.CoreCompileInputs.cache
+C:\curso\curso\curso.infra.crosscutting\obj\Debug\netstandard2.0\curso.infra.crosscutting.AssemblyInfoInputs.cache
+C:\curso\curso\curso.infra.crosscutting\obj\Debug\netstandard2.0\curso.infra.crosscutting.AssemblyInfo.cs
+C:\curso\curso\curso.infra.crosscutting\obj\Debug\netstandard2.0\curso.infra.crosscutting.dll
+C:\curso\curso\curso.infra.crosscutting\obj\Debug\netstandard2.0\curso.infra.crosscutting.pdb

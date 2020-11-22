@@ -1,0 +1,14 @@
+C:\curso\curso\curso.infra.data\bin\Debug\netstandard2.0\curso.infra.data.deps.json
+C:\curso\curso\curso.infra.data\bin\Debug\netstandard2.0\curso.infra.data.dll
+C:\curso\curso\curso.infra.data\bin\Debug\netstandard2.0\curso.infra.data.pdb
+C:\curso\curso\curso.infra.data\bin\Debug\netstandard2.0\curso.domain.dll
+C:\curso\curso\curso.infra.data\bin\Debug\netstandard2.0\curso.domain.pdb
+C:\curso\curso\curso.infra.data\obj\Debug\netstandard2.0\curso.infra.data.csprojAssemblyReference.cache
+C:\curso\curso\curso.infra.data\obj\Debug\netstandard2.0\curso.infra.data.AssemblyInfoInputs.cache
+C:\curso\curso\curso.infra.data\obj\Debug\netstandard2.0\curso.infra.data.AssemblyInfo.cs
+C:\curso\curso\curso.infra.data\obj\Debug\netstandard2.0\curso.infra.data.csproj.CopyComplete
+C:\curso\curso\curso.infra.data\obj\Debug\netstandard2.0\curso.infra.data.dll
+C:\curso\curso\curso.infra.data\obj\Debug\netstandard2.0\curso.infra.data.pdb
+C:\curso\curso\curso.infra.data\obj\Debug\netstandard2.0\curso.infra.data.csproj.CoreCompileInputs.cache
+C:\curso\curso\curso.infra.data\bin\Debug\netstandard2.0\curso.util.dll
+C:\curso\curso\curso.infra.data\bin\Debug\netstandard2.0\curso.util.pdb
